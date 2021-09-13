@@ -1,3 +1,3 @@
 # brickBreaker
-I build this game out of fun
-download the jar file and play
+I built this game out of fun.
+Download the jar file and play
